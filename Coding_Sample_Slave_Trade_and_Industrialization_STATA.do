@@ -1,4 +1,4 @@
-* This is a do-file conducting country-level OLS and IV estimations of the slave trade's impact on contemporary industrialization.
+* This is a do-file conducting country-level OLS and IV estimations of the slave trade's impact on contemporary industrialization. 
 
 global data_dir = "/Users/changjay/Dropbox/Economic History Seminar/Research/data/"
 global result_dir = "/Users/changjay/Dropbox/Economic History Seminar/Research/results/"
