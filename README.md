@@ -1,5 +1,5 @@
 # Coding-Sample
 
-This is a repository containing two versions of codes constrcuting results in my working paper "The Long-term Impact of the Historical Slave Trade in Africa on Contemporary Industrialization."
+This repository contains two versions of the code used to generate the main results in my working paper, _"The Long-term Impact of the Historical Slave Trade in Africa on Contemporary Industrialization."_
 
-I hope you will find them helpful in knowing my programming ability in both STATA and Python.
+These materials are intended to demonstrate my programming proficiency in both STATA and Python.
